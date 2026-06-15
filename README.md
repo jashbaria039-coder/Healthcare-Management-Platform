@@ -8,6 +8,8 @@ A polished, multi-page marketing website for a modern healthcare SaaS platform. 
 
 ## Live Preview
 
+🔗 **Live:** https://asset-manager--230860116004.replit.app/
+
 Deploy this project and it's immediately live at your `.replit.app` domain, or connect a custom domain.
 
 ---
